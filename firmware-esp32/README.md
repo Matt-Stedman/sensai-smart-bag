@@ -12,4 +12,4 @@ To get platformio on your computer:
 To use platformio to flash an ESP32:
 
 4. Use the [Build and Run commands](https://docs.platformio.org/en/stable/_images/platformio-ide-vscode-build-project.png) to flash firmware
-5. You can also use the [Serial Monitor](https://envirodiy.github.io/LearnEnviroDIY/06-PlatformIO_MonitorSensors/index.html) to see the ESP32's output. 
+5. You can also use the [Serial Monitor](https://www.digikey.com/-/media/MakerIO/Images/blogs/2022/Get%20Started%20with%20PlatformIO%20for%20Your%20Next%20Arduino%20Project/buttons_6.jpg?la=en&ts=aa4d24a5-eff4-4895-a4e8-0e26b3895d05) to see the ESP32's output. 
